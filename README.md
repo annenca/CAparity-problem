@@ -1,4 +1,4 @@
-# CAparity-problem
+
 # Candidate Rules for the Parity Problem in Cellular Automata
 
 This repository contains the candidate rules identified in the paper:
@@ -41,4 +41,4 @@ The code used to generate these results will be made available in future work.
 
 If you use this data, please cite:
 
-> [Twój artykuł]
+> Reducing the Rule Space for the Parity Problem
