@@ -41,4 +41,4 @@ The code used to generate these results will be made available in future work.
 
 If you use this data, please cite:
 
-> Reducing the Rule Space for the Parity Problem
+> Exploring the Rule Space for the Parity Problem in Cellular Automata
