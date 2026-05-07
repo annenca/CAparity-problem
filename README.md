@@ -3,7 +3,7 @@
 
 This repository contains the candidate rules identified in the paper:
 
-**Exploring the Rule Space for the Parity Problem in Cellular Automata**
+**Exploring the rule space for the parity problem in cellular automata**
 
 ## Description
 
